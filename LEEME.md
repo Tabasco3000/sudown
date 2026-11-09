@@ -4,7 +4,7 @@ Graba una canción de tu cuenta de Suno para usarla de fondo en un video. No sue
 
 ## Instalar (Mac, una vez)
 
-Necesitas Google Chrome, Node 22 o más nuevo y acceso a este repo. En Terminal:
+Necesitas Google Chrome y Node 22 o más nuevo (nodejs.org). En Terminal:
 
 ```
 git clone https://github.com/Tabasco3000/sudown ~/.claude/skills/sudown

@@ -1,5 +1,5 @@
 #!/bin/bash
-# subir.sh: manda a GitHub (repo privado Tabasco3000/sudown) lo que cambió de SuDown en el Brain.
+# subir.sh: manda a GitHub (repo público Tabasco3000/sudown) lo que cambió de SuDown en el Brain.
 # Solo en la Mac de Luis: el Brain es la fuente y GitHub la copia de donde se actualizan los demás.
 # El Brain nunca sube nada (es local por diseño): se copia la carpeta a un clon aparte y se sube desde ahí.
 #   bash subir.sh "qué cambió"
