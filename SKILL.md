@@ -47,3 +47,7 @@ La sesión vive en `~/.sudown/`, fuera del Brain: no se sube a ningún lado.
 - Nunca bajes ni silencies el volumen de la Mac: la persona puede estar oyendo otra cosa.
 - Graba solo canciones de la cuenta de la persona.
 - La descarga oficial de Suno (`audio-download` del conector) gasta créditos de descarga: no la uses para esto.
+
+## Mantener (solo en la Mac donde vive el Brain)
+
+La fuente es esta carpeta del Brain. Después de cambiar algo y probarlo, súbelo con `bash ~/.claude/skills/sudown/subir.sh "qué cambió"`: lo copia al repo privado de GitHub y de ahí se actualizan solas las demás Macs. Cómo se instala en otra Mac: `LEEME.md`.
